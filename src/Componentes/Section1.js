@@ -6,7 +6,7 @@ function Section1(){
         <article className={Style.container}>
         
             <section className={Style.texto}>
-                <h1>Seus objetivos financeiros são nossos </h1>
+                <h1>AQui nós temos valores </h1>
                 <p>Assuma o controle do seu dinheiro</p>
             </section>
 
