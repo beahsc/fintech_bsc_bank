@@ -1,0 +1,107 @@
+header {
+    position: fixed;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    background-color: #fff;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+   
+}
+
+.logo{
+    margin-top: -20px;
+    width: 150px;
+    height: 150px;
+}
+
+.logo1{
+    margin-top: -120px;
+    margin-left: -130px;
+    width: 300px;
+    height: 300px;
+}
+
+header li, button {
+    font-family: arial;
+    cursor: pointer;
+}
+
+
+#header_1 {
+    width: 50%;
+    margin: auto;
+}
+
+#header_1 nav {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+#header_1 ul {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+   
+}
+
+#header_1 li {
+    font-size: 18px;
+    list-style: none;
+}
+
+#header_1 li:hover {
+    text-decoration: underline #336EBE;
+}
+
+#header_2 {
+    width: 20%;
+    margin: auto;
+}
+
+#header_2 nav {
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    gap: 15px;
+    padding: 5.5% 0;
+   
+}
+
+#header_2 div {
+    width: 100%
+
+}
+
+#header_2 button {
+    font-size: 18px;
+    width: 50%;
+    height: 40px;
+    border-radius: 10px;
+    
+}
+
+#entrar {
+    background-color: #000B50;
+    color: #fff;
+    border: 3px solid #336EBE;
+    transition: all 0.5s;
+}
+
+#entrar:hover {
+    background-color: #fff;
+    color: #000B50;
+    border: 0;
+    border: 3px solid #336EBE;
+}
+
+
+
+
+
+/*Responsivo Celular */
+
