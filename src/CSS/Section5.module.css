@@ -1,0 +1,113 @@
+.container{
+    width: 100%;
+    margin: auto;
+    height: 620px;
+    display: flex;
+    align-items: center;
+    font-family: tahoma;
+    overflow-x: hidden;
+ 
+    
+
+}
+
+#preto{
+    width: 85%;
+    height: 620px;
+    background-color: #EAF0F6;
+    margin-left: 105px;
+    border-radius: 40px;
+}
+
+
+.texto3{
+    width: 50%;
+    color:#000;
+    margin-top: 120px;
+    margin-left: 480px;
+}
+
+.h12{
+    font-size: 33px;
+    text-align: center;
+    color:#003b67;
+}
+.h11{
+    color: #336EBE;
+}
+
+#moeda{
+    width: 50%;
+    margin-top: -532px;
+}
+
+.imagem4{
+    width: 120%;
+    margin-left:  -180px;
+}
+
+#icon1{
+    width: 20%;
+    height: 120px;
+    margin-left: 50px;
+    margin-top: 80px;
+  
+}
+
+#icon2{
+    width: 20%;
+    height: 120px;
+    margin-left: 200px;
+    margin-top: -120px;
+  
+  
+}
+
+#icon3{
+    width: 20%;
+    height: 120px;
+    margin-left: 350px;
+    margin-top: -120px;
+  
+  
+}
+
+#icon4{
+    width: 20%;
+    height: 120px;
+    margin-left: 500px;
+    margin-top: -120px;
+  
+  
+}
+
+#icon1:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+#icon2:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+#icon3:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+#icon4:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+
+.imagem5{
+    width: 75%;
+}
+
+

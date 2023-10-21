@@ -1,0 +1,44 @@
+.container{
+    width: 100%;
+    height: 250px;
+    background-color:#000B50;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.icones{
+
+    width:900px ;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+h4{
+    font-size:  20px;
+    text-align: left;
+    margin-top: 8px;
+    color:  #336EBE ;
+
+}
+
+h5{
+    font-size: 15px;
+    text-align: left;
+    top: 10px;
+    line-height: 0.3;
+}
+
+h5:hover{
+    text-decoration: underline #fff;
+    color:  #336EBE ;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+
+
